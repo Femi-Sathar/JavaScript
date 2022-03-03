@@ -1,2 +1,0 @@
-# GuessNumber
-//Javascript DOM manipulation
